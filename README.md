@@ -5,7 +5,7 @@
 
 # Team Members:
 1. Eryn Williams @erynwilliams
-2. Jenny Gentry @
+2. Jenny Gentry @jmg15190
 3. Ariana Gonzalez @
 4. Josh James @
 5. Jose Medrano @
