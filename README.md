@@ -8,7 +8,7 @@
 2. Jenny Gentry @jmg15190
 3. Ariana Gonzalez @
 4. Josh James @joshanttt
-5. Jose Medrano @
+5. Jose Medrano @josemedjr
 6. Rebekah Bradbury @rebekahbradbury 
 
 # Problem Description 
