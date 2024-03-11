@@ -7,7 +7,7 @@
 1. Eryn Williams @erynwilliams
 2. Jenny Gentry @jmg15190
 3. Ariana Gonzalez @
-4. Josh James @
+4. Josh James @joshanttt
 5. Jose Medrano @
 6. Rebekah Bradbury @rebekahbradbury 
 
