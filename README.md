@@ -17,7 +17,7 @@ Georgia to create the database for you. They need to know more about your organi
 identify which entities, attributes, and relationships are important for you. Start by describing
 your business as a real client.
 
-# Data Model
+# Data Model:
 
 # Data Dictionary: 
 
