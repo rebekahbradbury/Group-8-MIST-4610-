@@ -9,6 +9,7 @@
 3. Ariana Gonzalez @
 4. Josh James @
 5. Jose Medrano @
+6. Rebekah Bradbury @rebekahbradbury 
 
 # Problem Description 
 Pretend you are the owner/operator of a emergency healthcare clinic needing to build a
