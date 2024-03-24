@@ -19,13 +19,14 @@ identify which entities, attributes, and relationships are important for you. St
 your business as a real client.
 
 # Data Model:
-![Data Model](https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/249cddf7-9d23-4ae8-88eb-feef7e6f3d4c)
+ <img width="981" alt="Screenshot 2024-03-24 at 7 41 57 PM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/d18f2f4e-a042-44a8-ab39-18c3b46b381e">
 
 # Data Dictionary: 
 
 
 # Queries:
 
-# Database Information: 
+# Database Information:
+
 Name of the database: 
 Additional Information: 
