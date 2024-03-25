@@ -80,5 +80,5 @@ your business as a real client.
 
 # Database Information:
 
-Name of the database: 
+Name of the database: ns_Sp24_47114_Group8
 Additional Information: 
