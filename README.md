@@ -53,10 +53,11 @@ Explain: This query generates the number of patients currently using one of the 
 Explain: This query generates the names of patients who have an "unpaid" status listed on their account and the amount they owe. This information is important because it notifies the clinic of which patients they need to contact about paying outstanding bills. It is also important for insurance purposes, as many patients may use co-pay or may change insurances and be unaware that certain charges may not be covered based on their plans. Lastly, if bills are not eventually paid, the clinic will need this information to report the outstanding bill to collections. 
 
 
-4. Query 4 lists patientID, patientName, dob, gender, contact and medHistory and total billed amount 
-<img width="1126" alt="Screenshot 2024-03-24 at 8 02 34 PM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/1de209a8-7a68-4439-94a1-b6c8634411de">
+4. Query 4 lists the names of medical staff who are doctors 
+![image](https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002826/cdba9b5a-0f7d-4cdf-b0eb-b0ba6de279e1)
 
-Explain: This query lists all available patient information, their medical history and how much they were billed. 
+
+Explain: For an emergency health clinic, it's crucial to quickly identify which doctors are available to provide immediate care. Knowing the names and availability of all doctors enables clinic staff to respond promptly to emergency situations.
 
 
 5. Query 5 lists the average deductible of female patients whose insurance plan type begins with T
