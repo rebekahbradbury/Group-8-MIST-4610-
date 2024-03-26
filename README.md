@@ -5,11 +5,11 @@
 
 ## Team Members:
 1. Eryn Williams @erynwilliams
-2. Jenny Gentry @jmg15190
-3. Ariana Gonzalez @
-4. Josh James @joshanttt
-5. Jose Medrano @josemedjr
-6. Rebekah Bradbury @rebekahbradbury 
+3. Jenny Gentry @jmg15190
+4. Ariana Gonzalez @
+5. Josh James @joshanttt
+6. Jose Medrano @josemedjr
+7. Rebekah Bradbury @rebekahbradbury 
 
 ## Problem Description 
 Pretend you are the owner/operator of a emergency healthcare clinic needing to build a
