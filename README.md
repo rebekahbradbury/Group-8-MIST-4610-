@@ -44,6 +44,7 @@ Data Matrix -
 Explain: This query allows the clinic to decipher which medical staff have serviced more than 2 patients, informing them on how many patients each member of the medical staff are attending to over a period of time. Being able to track medical staff and how many patients they are seeing is essential in an emergency health clinic for organizational and efficiency purposes. 
 
 2. Query 2 lists the top 10 most frequently used medications by their names and the number of patients currently taking the medicine in descending order
+
 ![image](https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002826/ad4380c3-17f4-4ee3-b40a-7a18711fbc5b)
 
 
