@@ -79,6 +79,7 @@ Explain: Understanding which medications patients are using allows the clinic to
 
 
 7. Query 7 lists the patient name and their amount of insurance billed that is greater than the average amount of insurance billed to all patients.
+   
 ![image](https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002826/3d9edd6a-116a-4bd4-9a6d-7b16d5ea19f4)
 
 
