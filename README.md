@@ -78,7 +78,8 @@ Explain: The health clinic may want to know the patients who have paid more than
 
 
 8. Query 8 lists the number of appointments attended by patients under each insurance provider.
-<img width="1126" alt="Screenshot 2024-03-24 at 8 03 05 PM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/a3724c1b-7a05-48eb-8af5-d6071ca25b53">
+![image](https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002826/3fbe0952-f46b-4dcd-a21c-41cac7202b10)
+
 
 Explain:
 Health clinics may want to know the number of appointments attended by patients based on insurance providers to determine which insurance providers are best and which ones may be the worst. Many appointments with the same provider may imply that that specific insurance provider may be best for patients because they offer a good plan for patients, are affordable, and show care for their customers. Meanwhile, providers with not many appointments may imply those providers don’t have good plans for patients, making it difficult for patients to make appointments.
