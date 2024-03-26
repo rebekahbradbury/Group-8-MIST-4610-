@@ -4,7 +4,7 @@
 47114 Group 8
 
 ## Team Members:
-1. Eryn Williams @erynwilliams
+1. Eryn Williams @erynwilliams [erynwilliams](https://github.com/erynwilliams)
 3. Jenny Gentry @jmg15190
 4. Ariana Gonzalez @
 5. Josh James @joshanttt
