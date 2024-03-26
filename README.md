@@ -65,7 +65,7 @@ Explain: This query lists all available patient information, their medical histo
 Explain: The health clinic might need to use this query to assess the financial burden on female patients with specific insurance plans. Understanding the average deductible for a certain demographic can aid in financial planning, resource allocation, and more to ensure fair access to healthcare services for female patients with particular insurance plans. Such insights can inform decision-making processes aimed at enhancing the overall patient experience and ensuring that healthcare remains accessible and affordable for all.
 
 
-6. Query 6 the medicine name and the percentage of patients who are taking a med with a dosage less than 100mg
+6. Query 6 lists the medicine name and the percentage of patients who are taking a med with a dosage less than 100mg
 ![image](https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002826/920881a2-8531-4c1c-943e-4fb1b2ecdc9b)
 
 
