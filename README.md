@@ -103,7 +103,9 @@ Explain:
 Being able to know the average deductible for each insurance plan type, the health clinic may help patients avoid potential barriers and conflicts due to their insurance plan. The clinic could look ahead to see the insurance the patients have and create the most affordable plan for the treatment they will receive. This information will also help the financial planning aspect of the clinic so they will be prepared for the amount that patients will be paying after insurance. It will also allow for the health clinic to provide insurance insight on which plan type the patient should choose that will be most beneficial for their treatments and medications.
 
 10. Query 10 lists the name of patients and the date of the appointment for those who are receiving a type of drainage service.
-<img width="1126" alt="Screenshot 2024-03-24 at 8 11 37 PM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/d7644f18-4e5d-4864-86fb-6cb79375d639">
+
+![image](https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002826/025a4220-0d8a-414f-8dc7-5e24f8e49c7c)
+
 
 Explain:
 The health clinic may want to know the names and date of their patients appointments to ensure they are arriving on time and on the correct date. This would also ensure that there is enough staff on that day and that each patient is receiving the correct service, which in this case is a drainage service. Having access to this information also allows for staff specializing in a type of drainage service to know what days they have to go into the health clinic and who they are operating this service on. 
