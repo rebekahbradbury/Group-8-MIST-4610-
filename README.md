@@ -4,12 +4,12 @@
 47114 Group 8
 
 ## Team Members:
-1. Eryn Williams [erynwilliams](https://github.com/erynwilliams)
-3. Jenny Gentry [jmg15190](https://github.com/jmg15190)
+1. Eryn Williams [@erynwilliams](https://github.com/erynwilliams)
+3. Jenny Gentry [@jmg15190](https://github.com/jmg15190)
 4. Ariana Gonzalez 
-5. Josh James [joshanttt](https://github.com/joshanttt)
-6. Jose Medrano [josemedjr](https://github.com/josemedjr)
-7. Rebekah Bradbury [rebekahbradbury](https://github.com/rebekahbradbury)
+5. Josh James [@joshanttt](https://github.com/joshanttt)
+6. Jose Medrano [@josemedjr](https://github.com/josemedjr)
+7. Rebekah Bradbury [@rebekahbradbury](https://github.com/rebekahbradbury)
 
 ## Problem Description 
 Pretend you are the owner/operator of a emergency healthcare clinic needing to build a
