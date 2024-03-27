@@ -6,7 +6,7 @@
 ## Team Members:
 1. Eryn Williams [@erynwilliams](https://github.com/erynwilliams)
 3. Jenny Gentry [@jmg15190](https://github.com/jmg15190)
-4. Ariana Gonzalez 
+4. Ariana Gonzalez [@ag45846](https://github.com/ag45846)
 5. Josh James [@joshanttt](https://github.com/joshanttt)
 6. Jose Medrano [@josemedjr](https://github.com/josemedjr)
 7. Rebekah Bradbury [@rebekahbradbury](https://github.com/rebekahbradbury)
