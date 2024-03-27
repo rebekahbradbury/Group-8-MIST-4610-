@@ -34,7 +34,8 @@ Our data model is based on the services of a health-care clinic. First off, our 
 
 
 ## Queries:
-Data Matrix -
+<img width="623" alt="Screenshot 2024-03-27 at 9 15 37 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/eacbc06c-6955-4324-9912-95998ffea621">
+
 
 1. Query 1 lists the ID's and names of Medical Staff who have treated more than 2 patients.
 ![image](https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002826/77d536df-5ef5-4bec-870d-3e55a090341b)
