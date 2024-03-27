@@ -47,7 +47,13 @@ Our data model is based on the services of a health-care clinic. First off, our 
 
 <img width="644" alt="Screenshot 2024-03-27 at 10 16 02 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/f9929e77-cff4-4f2d-a304-fec4b90564b1">
 
+<img width="644" alt="Screenshot 2024-03-27 at 10 17 59 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/73ead041-fb33-484c-98c9-ffb72c229cd6">
 
+<img width="639" alt="Screenshot 2024-03-27 at 10 18 15 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/564df81b-0230-48ff-96fc-526a53712d86">
+
+<img width="655" alt="Screenshot 2024-03-27 at 10 18 28 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/1a332faf-b175-4b78-95b8-eb97ea280da1">
+
+<img width="641" alt="Screenshot 2024-03-27 at 10 18 40 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/afb63edf-95b6-421a-bb97-173cfd0ea3b8">
 
 
 
