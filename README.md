@@ -12,11 +12,10 @@
 7. Rebekah Bradbury [@rebekahbradbury](https://github.com/rebekahbradbury)
 
 ## Problem Description 
-Pretend you are the owner/operator of a emergency healthcare clinic needing to build a
-relational database. You hired some students from the MIST 4610 class at the University of
-Georgia to create the database for you. They need to know more about your organization to
-identify which entities, attributes, and relationships are important for you. Start by describing
-your business as a real client.
+As a group, we were tasked with building a relational database for the various entities within an emergency health-care clinic. At the clinic, patients can receive various types of medical services and are treated by professionals. Our model aims to visual portray the relationships present between the various entities of a health-care clinic. Our goal is to populate sample data and possible queries that may serve as an asset to the clinic, helping to store and analyze needed data. Our hope is that the model will improve day-to-day functions and overall efficiency for the clinic. 
+
+
+
 
 ## Data Model:
 Data Model Description: 
