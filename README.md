@@ -31,6 +31,25 @@ Our data model is based on the services of a health-care clinic. First off, our 
 #
 
 ## Data Dictionary: 
+<img width="695" alt="Screenshot 2024-03-27 at 10 13 38 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/3f1561ac-14f2-4133-8e38-3ec8f7f3178a">
+
+<img width="671" alt="Screenshot 2024-03-27 at 10 13 58 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/5579f892-6350-4f2d-b126-c0ce8b04a5e7">
+
+<img width="668" alt="Screenshot 2024-03-27 at 10 14 18 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/ddd43dee-45f0-4c25-b5b5-ed7923e3df5c">
+
+<img width="671" alt="Screenshot 2024-03-27 at 10 14 40 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/6bfd847f-caa7-470e-a067-1ac7065e8dfb">
+
+<img width="667" alt="Screenshot 2024-03-27 at 10 14 56 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/3fa6b8f0-6602-43a1-b7d7-4c2ae5648f14">
+
+<img width="678" alt="Screenshot 2024-03-27 at 10 15 21 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/9423da04-00ef-4c6f-9f2f-44552e9aae07">
+
+<img width="669" alt="Screenshot 2024-03-27 at 10 15 36 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/664f64d7-d123-48c0-be85-eddf83a574ee">
+
+<img width="644" alt="Screenshot 2024-03-27 at 10 16 02 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/f9929e77-cff4-4f2d-a304-fec4b90564b1">
+
+
+
+
 
 
 ## Queries:
