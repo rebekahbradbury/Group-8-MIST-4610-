@@ -5,7 +5,7 @@
 
 ## Team Members:
 1. Eryn Williams [@erynwilliams](https://github.com/erynwilliams/MIST4610Group8/blob/main/README.md)
-3. Jenny Gentry [@jmg15190](https://github.com/jmg15190)
+3. Jenny Gentry [@jmg15190](https://github.com/jmg15190/Group-8-MIST4610-Project/blob/main/README.md)
 4. Ariana Gonzalez [@ag45846](https://github.com/ag45846/MISTGroup8/blob/main/README.md)
 5. Josh James [@joshanttt](https://github.com/joshanttt)
 6. Jose Medrano [@josemedjr](https://github.com/josemedjr/MIST4610GroupProject1/blob/main/README.md)
