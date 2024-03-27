@@ -36,47 +36,50 @@ Our data model is based on the services of a health-care clinic. First off, our 
 ## Queries:
 <img width="623" alt="Screenshot 2024-03-27 at 9 15 37 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/eacbc06c-6955-4324-9912-95998ffea621">
 
+# 
 
 1. Query 1 lists the ID's and names of Medical Staff who have treated more than 2 patients.
 ![image](https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002826/77d536df-5ef5-4bec-870d-3e55a090341b)
 
 
 Explain: This query allows the clinic to decipher which medical staff have serviced more than 2 patients, informing them on how many patients each member of the medical staff are attending to over a period of time. Being able to track medical staff and how many patients they are seeing is essential in an emergency health clinic for organizational and efficiency purposes. 
-
+#
+ 
 2. Query 2 lists the top 10 most frequently used medications by their names and the number of patients currently taking the medicine in descending order
 
 ![image](https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002826/ad4380c3-17f4-4ee3-b40a-7a18711fbc5b)
 
 
 Explain: This query generates the number of patients currently using one of the top 10 medications provided by the clinic. Identifying the most used medications can help the clinic track which medications they may need to order soon or on a more frequent basis. 
+# 
 
 3. Query 3 lists the names of patients with a balance due on their account and the amount due.
 ![image](https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002826/cd49663f-71ed-49e8-8854-746ee94c3816)
 
 
 Explain: This query generates the names of patients who have an "unpaid" status listed on their account and the amount they owe. This information is important because it notifies the clinic of which patients they need to contact about paying outstanding bills. It is also important for insurance purposes, as many patients may use co-pay or may change insurances and be unaware that certain charges may not be covered based on their plans. Lastly, if bills are not eventually paid, the clinic will need this information to report the outstanding bill to collections. 
-
+#
 
 4. Query 4 lists the names of medical staff who are doctors 
 ![image](https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002826/cdba9b5a-0f7d-4cdf-b0eb-b0ba6de279e1)
 
 
 Explain: For an emergency health clinic, it's crucial to quickly identify which doctors are available to provide immediate care. Knowing the names and availability of all doctors enables clinic staff to respond promptly to emergency situations.
-
+#
 
 5. Query 5 lists the average deductible of female patients whose insurance plan type begins with T
 ![image](https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002826/2573458f-6aaa-45b5-bec7-176a6e59de99)
 
 
 Explain: The health clinic might need to use this query to assess the financial burden on female patients with specific insurance plans. Understanding the average deductible for a certain demographic can aid in financial planning, resource allocation, and more to ensure fair access to healthcare services for female patients with particular insurance plans. Such insights can inform decision-making processes aimed at enhancing the overall patient experience and ensuring that healthcare remains accessible and affordable for all.
-
+#
 
 6. Query 6 lists the medicine name and the percentage of patients who are taking a med with a dosage less than 100mg
 ![image](https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002826/920881a2-8531-4c1c-943e-4fb1b2ecdc9b)
 
 
 Explain: Understanding which medications patients are using allows the clinic to monitor the effectiveness of treatments. If a significant percentage of patients are taking a particular medication but not showing improvement, it may indicate that the treatment protocol needs adjustment.
-
+#
 
 7. Query 7 lists the patient name and their amount of insurance billed that is greater than the average amount of insurance billed to all patients.
    
@@ -84,7 +87,7 @@ Explain: Understanding which medications patients are using allows the clinic to
 
 
 Explain: The health clinic may want to know the patients who have paid more than the average for all patients can help ensure quality care and identify bill errors or fraud. Being able to identify patients who pay more than the average amount allows the health clinic to conduct quality checks with surveys to ask the patients if they are satisfied with the service and bill they were provided. Also, this allows the health clinic to check for any potential fraud errors to discover the reason why these patients are being billed more than average
-
+#
 
 8. Query 8 lists the number of appointments attended by patients under each insurance provider.
 ![image](https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002826/af4b269f-4852-4b94-8606-ab96dac5ef5a)
@@ -93,7 +96,7 @@ Explain: The health clinic may want to know the patients who have paid more than
 
 Explain:
 Health clinics may want to know the number of appointments attended by patients based on insurance providers to determine which insurance providers are best and which ones may be the worst. Many appointments with the same provider may imply that that specific insurance provider may be best for patients because they offer a good plan for patients, are affordable, and show care for their customers. Meanwhile, providers with not many appointments may imply those providers don’t have good plans for patients, making it difficult for patients to make appointments.
-
+#
 
 9. Query 9 lists the insurance plan type and average deductable amount for each insurance plan.
 ![image](https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002826/480b6c7f-748c-454f-9130-30e7bcf8caf4)
@@ -101,6 +104,7 @@ Health clinics may want to know the number of appointments attended by patients 
 
 Explain: 
 Being able to know the average deductible for each insurance plan type, the health clinic may help patients avoid potential barriers and conflicts due to their insurance plan. The clinic could look ahead to see the insurance the patients have and create the most affordable plan for the treatment they will receive. This information will also help the financial planning aspect of the clinic so they will be prepared for the amount that patients will be paying after insurance. It will also allow for the health clinic to provide insurance insight on which plan type the patient should choose that will be most beneficial for their treatments and medications.
+#
 
 10. Query 10 lists the name of patients and the date of the appointment for those who are receiving a type of drainage service.
 
@@ -109,7 +113,7 @@ Being able to know the average deductible for each insurance plan type, the heal
 
 Explain:
 The health clinic may want to know the names and date of their patients appointments to ensure they are arriving on time and on the correct date. This would also ensure that there is enough staff on that day and that each patient is receiving the correct service, which in this case is a drainage service. Having access to this information also allows for staff specializing in a type of drainage service to know what days they have to go into the health clinic and who they are operating this service on. 
-
+#
 
 
 
