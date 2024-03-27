@@ -7,7 +7,7 @@
 1. Eryn Williams [@erynwilliams](https://github.com/erynwilliams/MIST4610Group8/blob/main/README.md)
 3. Jenny Gentry [@jmg15190](https://github.com/jmg15190/Group-8-MIST4610-Project/blob/main/README.md)
 4. Ariana Gonzalez [@ag45846](https://github.com/ag45846/MISTGroup8/blob/main/README.md)
-5. Josh James [@joshanttt](https://github.com/joshanttt)
+5. Josh James [@joshanttt]([https://github.com/joshanttt](https://github.com/joshanttt/MIST4610-Group-8-Project-1/blob/main/README.md))
 6. Jose Medrano [@josemedjr](https://github.com/josemedjr/MIST4610GroupProject1/blob/main/README.md)
 7. Rebekah Bradbury [@rebekahbradbury](https://github.com/rebekahbradbury/Group-8-MIST-4610-/blob/main/README.md)
 
