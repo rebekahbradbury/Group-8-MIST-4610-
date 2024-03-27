@@ -9,7 +9,7 @@
 4. Ariana Gonzalez [@ag45846](https://github.com/ag45846)
 5. Josh James [@joshanttt](https://github.com/joshanttt)
 6. Jose Medrano [@josemedjr](https://github.com/josemedjr/MIST4610GroupProject1/blob/main/README.md)
-7. Rebekah Bradbury [@rebekahbradbury](https://github.com/rebekahbradbury)
+7. Rebekah Bradbury [@rebekahbradbury](https://github.com/rebekahbradbury/Group-8-MIST-4610-/blob/main/README.md)
 
 ## Problem Description 
 As a group, we were tasked with building a relational database for the various entities within an emergency health-care clinic. At the clinic, patients can receive various types of medical services and are treated by professionals. Our model aims to visual portray the relationships present between the various entities of a health-care clinic. Our goal is to populate sample data and possible queries that may serve as an asset to the clinic, helping to store and analyze needed data. Our hope is that the model will improve day-to-day functions and overall efficiency for the clinic. 
