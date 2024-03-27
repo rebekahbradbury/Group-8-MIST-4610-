@@ -34,7 +34,8 @@ Our data model is based on the services of a health-care clinic. First off, our 
 
 
 ## Queries:
-<img width="623" alt="Screenshot 2024-03-27 at 9 15 37 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/eacbc06c-6955-4324-9912-95998ffea621">
+<img width="620" alt="Screenshot 2024-03-27 at 10 12 05 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/0372da59-7fee-4506-8d7b-7686a94f5ab5">
+
 
 #
  
